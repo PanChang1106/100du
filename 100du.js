@@ -1,7 +1,7 @@
  /*javascript document*/
  
  $(function(){
-//		 		搜索栏——搜索切换
+//		 		搜索栏——搜索切换 加油啊
 		 		(function(){
 		 			var aLi=$("#menu li");
 		 			var oText=$('.form').find('.text');
